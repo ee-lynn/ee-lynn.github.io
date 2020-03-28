@@ -1,7 +1,13 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-![Image of fast.ai logo](images/logo.png)
+Hello and welcome to this blog.
 
-## This is a title
+As an computer vision researcher and developer, technical and therotical evolution is important as the fast development of the CV comunity. This blog serves as study notes, including but not limited to the following subjects:
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+- digital image processing
+- neural network architecture  
+- object detection
+- semantic & instance segementation
+- visual tracking
+- action reconition and detection
+- engineering skills about deep learning framework/ARM/CUDA/hisi
+
